@@ -23,6 +23,21 @@
             android:text="Choose Photo"
             android:id="@+id/button"
             android:onClick="choosePhoto" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apply Sepia"
+            android:onClick="applySepia" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apply Toon"
+            android:onClick="applyToon" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apply Sketch"
+            android:onClick="applySketch" />
 
     </LinearLayout>
 
