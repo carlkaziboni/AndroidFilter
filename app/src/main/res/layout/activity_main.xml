@@ -38,6 +38,16 @@
             android:layout_height="wrap_content"
             android:text="Apply Sketch"
             android:onClick="applySketch" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apply Blur"
+            android:onClick="applyBlur" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:onClick="save" />
 
     </LinearLayout>
 
